@@ -1,0 +1,3 @@
+[submodule "albums"]
+	path = albums
+	url = git@github.com:badara1981/albums.git
